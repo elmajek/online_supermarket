@@ -13,27 +13,52 @@ turns into a challenge and customers end up spending more time than planned walk
 checkout which further adds to the inconvenience
 ===========================================================================================
 contant project online supermarket
+<br><tr>
+Login. And. Register
 <br>
-Login. And. Register 
-Resort password 
-Category 
-All products 
-Comment 
+Resort password
+<br>
+Category
+<br>
+All products
+<br>
+Comment
+<br>
 Search products
+<br>
 Profile 
+<br>
 Two factors authentication
+<br>
 Place browser session
+<br>
 Delete account
-Update password by profile 
+<br>
+Update password by profile
+<br>
 Add profile image
+<br>
 Verify email address 
+<br>
 Send massage welcome to user sale products
-Order processing by cache and payment stripe 
+<br>
+Order processing by cache and payment stripe
+<br>
 Dashboard admin panel 
+<br>
 Control management 
+<br>
 Add cart to process order cache or payment 
+<br>
 Cancel order or delete cart
+<br>
 Chat bot design to ask help problem system talk WhatsApp 🤠
+<br>
 ده شغلي كله بكل حاجه عامل 
+<br>
 Api by postman
+<br>
 future work android native .......soon
+<br>
+link video project online project:
+https://www.linkedin.com/posts/mohamed-samir-1404441a4_supermarket-shopping-as-we-know-it-can-be-activity-7084139549156663296-toe8?utm_source=share&utm_medium=member_android
