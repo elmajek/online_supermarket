@@ -1,0 +1,14 @@
+.bar {
+    border:none ;
+    background-color:white 
+}
+.bar:focus {
+    border:none !important;
+   
+}
+.drop {
+    color:black;
+    padding-left: 10px;
+    text-decoration: none;
+    font-size: 13px;
+}
